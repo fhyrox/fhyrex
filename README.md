@@ -1,0 +1,3 @@
+- 👋 Merhaba! Ben Fhyrex.
+- 💞️ Kodlamayı seviyorum.
+- 📫 Eğer benle çalışmak istiyorsan bana mesaj gönder. discord: <b>fhyrexx</b>
