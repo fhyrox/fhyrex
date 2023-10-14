@@ -5,9 +5,9 @@
 <body>
 <h1>👋 Merhaba! Ben Fhyrex.</h1>
 <ul>
-<li>💻 Kod yazarak vakit geçiriyorum..</li>
-<li>💞️ Kodlamayı seviyorum.</li>
-<li>📫 Eğer benimle çalışmak istiyorsan bana mesaj gönder. discord: <a href="https://discord.com/users/846119647131598898"><b>fhyrexx</b></a></li>
+<li>💻 Yazılım ile ilgileniyorum.</li>
+<li>👨‍💻 Back-end Developer ve Sunucu yöneticisiyim.</li>
+<li>📫 Eğer benimle iş yapmak istiyorsan bana mesaj gönder. discord: <a href="https://discord.gg/2evpFX22TB"><b>fhyrexx</b></a></li>
 </ul>
 </body>
 </html>
