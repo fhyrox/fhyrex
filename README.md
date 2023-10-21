@@ -13,5 +13,7 @@
 <li>👨‍💻 Back-end Developer ve sunucu yöneticisiyim.</li>
 <li>📫 Eğer benimle iş yapmak istiyorsan bana mesaj gönder. discord: <a href="https://discord.gg/2evpFX22TB"><b>fhyrexx</b></a></li>
 </ul>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/428188716641812481)](https://discord.com/users/428188716641812481)
 </body>
 </html>
